@@ -1,0 +1,185 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f1f8fe;
+}
+header{
+    background-color: #83c8d2;
+}
+
+.main_menu{
+    background-color: #dae9f8;
+    box-shadow: 0 0 3px 0 #132b37;
+}
+
+.contact{
+    margin-top: auto;
+}
+.version{
+    margin-top: auto;
+}
+.text{
+    text-align: left;
+    align-items: center;
+    padding-left: 0;
+    padding-top: 10px;
+    font-size: 14px;
+}
+.blue-text{
+    color: #3d283e;
+}
+.center{
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    position: relative;
+    top: -15px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.name a{
+    text-decoration: none;
+    font-size: x-large;
+    color: #333333 ;
+    font-weight: bold;
+
+}
+.contact_in{
+    margin-top: -20px;
+}
+
+.version{
+    margin-top: 5px;
+    padding-right: 15px;
+
+}
+.button-right{
+    margin-bottom: 5px;
+}
+.height-50{
+    height: 50px;
+}
+.search {
+    font-size: small;
+}
+.search_button{
+    font-size: small;
+    color: #42656b;
+    border-color: #c2dce0;
+    outline-color: #c2dce0;
+
+}
+.search_button:hover{
+    background-color: #008a9b;
+    border-color: #c2dce0;
+    outline-color: #c2dce0;
+    color: #f0f5ff;
+}
+.search_button:active{
+    background-color: #008a9b;
+    border-color: #c2dce0;
+    outline-color: #c2dce0;
+    color: #c5cbdb;
+    box-shadow: 0 0 0 3px lightskyblue;
+}
+
+.search_button:focus{
+    background-color: #008a9b;
+    border-color: #c2dce0;
+    outline-color: #c2dce0;
+    color: #c5cbdb;
+    box-shadow: 0 0 0 3px lightskyblue;
+}
+
+
+.version a{
+    width: 100%;
+    text-decoration: none;
+    font-size: medium;
+    color: #333333 ;
+}
+
+.version img{
+    margin-left: auto;
+    margin-right: auto
+}
+.icon{
+    display: flex;
+    width: 50px;
+    height: 50px;
+}
+.icon_50{
+    display: flex;
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.padding-0{
+    padding: 0;
+}
+.float_menu a button{
+    outline: none;
+}
+.button-with-border{
+    width: 100%;
+    height: 92%;
+    border: transparent;
+    border-right: 1px solid #85d3de;
+    background-color: transparent;
+    margin-top: 4px;
+    color: #333333 ;
+
+}
+.button-color{
+    background-color: transparent;
+}
+
+.entrance{
+    width: 100%;
+    height: 50px;
+    border: transparent;
+    outline: none;
+    color: #333333 ;
+    font-size: 14px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    border-radius: 5px;
+    background-color: #75b3bc;
+
+}
+
+.button-without-border{
+    width: 100%;
+    height: 92%;
+    border: transparent;
+    background-color: transparent;
+    outline: none;
+    margin-top: 4px;
+    color: #333333 ;
+}
+footer{
+    background-color: #052a40;
+    color: #fff;
+    padding: 100px 15px 15px 15px;
+    font-size: 13px;
+
+}
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.margin-left-15{
+    margin-left: 15px;
+}
+.margin-right-15 {
+    margin-right: 15px;
+}
